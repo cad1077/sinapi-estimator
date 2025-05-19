@@ -1,0 +1,1 @@
+fastapi\nuvicorn[standard]\njinja2\npdfplumber\nrequests

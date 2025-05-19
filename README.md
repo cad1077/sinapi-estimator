@@ -1,1 +1,0 @@
-# sinapi-estimator
